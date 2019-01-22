@@ -1,0 +1,1 @@
+cmd_/home/clem/Projets/eudyptula/task08/task08.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/clem/Projets/eudyptula/task08/task08.ko /home/clem/Projets/eudyptula/task08/task08.o /home/clem/Projets/eudyptula/task08/task08.mod.o
